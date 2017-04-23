@@ -376,7 +376,7 @@ hr {
 /* about section styles
 /* ========================================== */
 #about {
-  background: url('/images/12543264_566088703544181_847206905_n.jpg') 50% 0 repeat-y fixed;
+  background: url('/homepage/images/12543264_566088703544181_847206905_n.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: 100%;
   background-position: center;
@@ -593,7 +593,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 /* plan section styles
 /* ========================================== */
 #plan {
-  background: url('../images/plan-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('/homepage/images/plan-bg.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
